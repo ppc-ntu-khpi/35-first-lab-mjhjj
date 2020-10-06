@@ -9,7 +9,7 @@ public class Quotation {
 }
 ```
 *Скріншот*
-![Task1.1S](//todo)
+![Task1.1S](https://github.com/ppc-ntu-khpi/35-first-lab-mjhjj/blob/master/Solution/task2.1.png)
 
 **Код 2**
 *Quotation.java*
@@ -22,4 +22,4 @@ public class Quotation {
 }
 ```
 *Скріншот*
-![Task1.2S](//todo)
+![Task1.2S](https://github.com/ppc-ntu-khpi/35-first-lab-mjhjj/blob/master/Solution/task2.2.png)
