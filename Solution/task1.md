@@ -20,7 +20,7 @@ public class Shirt {
 } // кінець опису класу
 ```
 *Скріншот*
-![Task1.1S](//todo)
+![Task1.1S](https://github.com/ppc-ntu-khpi/35-first-lab-mjhjj/blob/master/Solution/task1.1.png)
 
 **Код 2**
 *Shirt.java*
@@ -44,4 +44,4 @@ public class Shirt {
 } // кінець опису класу
 ```
 *Скріншот*
-![Task1.2S](//todo)
+![Task1.2S](https://github.com/ppc-ntu-khpi/35-first-lab-mjhjj/blob/master/Solution/task1.2.png)
